@@ -335,7 +335,7 @@ img {
 }
 @media (min-width: 768px) {
     .newsletter {
-        background-position: center, -21rem 0rem;
+        background-position: center, -5rem 0rem;
         background-size: 100%, 100rem;
         padding: 10rem 0;
     }
